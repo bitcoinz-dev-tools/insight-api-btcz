@@ -1,12 +1,5 @@
 [
   {
-    "poolName": "Bitfly",
-    "url": "https://zcash.flypool.org/",
-    "searchStrings": [
-      "/flypool/"
-    ]
-  },
-  {
     "poolName": "NaN",
     "url": "",
     "searchStrings": [
@@ -14,17 +7,59 @@
     ]
   },
   {
-    "poolName": "Stratum",
-    "url": "",
+    "poolName": "equipool.1ds.us",
+    "url": "https://equipool.1ds.us/getting_started",
     "searchStrings": [
-      "/nodeStratum/"
+      "equipool.1ds.us"
     ]
   },
   {
-    "poolName": "Zmine",
-    "url": "https://zmine.io/",
+    "poolName": "CryptoBroker",
+    "url": "https://pool.cryptobroker.io",
     "searchStrings": [
-      "{ZMINE.IO}"
+      "CryptoBroker"
+    ]
+  },
+  {
+    "poolName": "GetPool",
+    "url": "https://getpool.network/",
+    "searchStrings": [
+      "getpool"
+    ]
+  },
+  {
+    "poolName": "Mining4",
+    "url": "http://equi.mining4.co.uk",
+    "searchStrings": [
+      "Mining4"
+    ]
+  },
+  {
+    "poolName": "miningspeed",
+    "url": "http://pool.miningspeed.com/",
+    "searchStrings": [
+      "miningspeed.com"
+    ]
+  },
+  {
+    "poolName": "RagnarPool",
+    "url": "http://pool.bitcoinzguiding.ovh",
+    "searchStrings": [
+      "bitcoinzguiding"
+    ]
+  },
+  {
+    "poolName": "LamboMoon",
+    "url": "https://lambomoon.club",
+    "searchStrings": [
+      "LamboMoon"
+    ]
+  },
+  {
+    "poolName": "AxePool.com",
+    "url": "https://axepool.com",
+    "searchStrings": [
+      "AxePool.com"
     ]
   }
 ]
