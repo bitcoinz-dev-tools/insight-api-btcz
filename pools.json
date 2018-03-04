@@ -1,65 +1,72 @@
 [
-  {
-    "poolName": "NaN",
-    "url": "",
-    "searchStrings": [
-      "/NaN"
-    ]
-  },
-  {
-    "poolName": "equipool.1ds.us",
-    "url": "https://equipool.1ds.us/getting_started",
-    "searchStrings": [
-      "equipool.1ds.us"
-    ]
-  },
-  {
-    "poolName": "CryptoBroker",
-    "url": "https://pool.cryptobroker.io",
-    "searchStrings": [
-      "CryptoBroker"
-    ]
-  },
-  {
-    "poolName": "GetPool",
-    "url": "https://getpool.network/",
-    "searchStrings": [
-      "getpool"
-    ]
-  },
-  {
-    "poolName": "Mining4",
-    "url": "http://equi.mining4.co.uk",
-    "searchStrings": [
-      "Mining4"
-    ]
-  },
-  {
-    "poolName": "miningspeed",
-    "url": "http://pool.miningspeed.com/",
-    "searchStrings": [
-      "miningspeed.com"
-    ]
-  },
-  {
-    "poolName": "RagnarPool",
-    "url": "http://pool.bitcoinzguiding.ovh",
-    "searchStrings": [
-      "bitcoinzguiding"
-    ]
-  },
-  {
-    "poolName": "LamboMoon",
-    "url": "https://lambomoon.club",
-    "searchStrings": [
-      "LamboMoon"
-    ]
-  },
-  {
-    "poolName": "AxePool.com",
-    "url": "https://axepool.com",
-    "searchStrings": [
-      "AxePool.com"
-    ]
-  }
+    {
+        "poolName": "NaN",
+        "url": "",
+        "searchStrings": [
+            "/NaN"
+        ]
+    },
+    {
+        "poolName": "equipool.1ds.us",
+        "url": "https://equipool.1ds.us/getting_started",
+        "searchStrings": [
+            "equipool.1ds.us"
+        ]
+    },
+    {
+        "poolName": "CryptoBroker",
+        "url": "https://pool.cryptobroker.io",
+        "searchStrings": [
+            "CryptoBroker"
+        ]
+    },
+    {
+        "poolName": "GetPool",
+        "url": "https://getpool.network/",
+        "searchStrings": [
+            "getpool"
+        ]
+    },
+    {
+        "poolName": "Mining4",
+        "url": "http://equi.mining4.co.uk",
+        "searchStrings": [
+            "Mining4"
+        ]
+    },
+    {
+        "poolName": "miningspeed",
+        "url": "http://pool.miningspeed.com/",
+        "searchStrings": [
+            "miningspeed.com"
+        ]
+    },
+    {
+        "poolName": "RagnarPool",
+        "url": "http://pool.bitcoinzguiding.ovh",
+        "searchStrings": [
+            "bitcoinzguiding"
+        ]
+    },
+    {
+        "poolName": "LamboMoon",
+        "url": "https://lambomoon.club",
+        "searchStrings": [
+            "LamboMoon"
+        ]
+    },
+    {
+        "poolName": "AxePool.com",
+        "url": "https://axepool.com",
+        "searchStrings": [
+            "AxePool.com"
+        ]
+    },
+    {
+        "poolName": "WorldMiner",
+        "url": "https://worldminer.net",
+        "searchStrings": [
+            "WorldMiner"
+        ]
+    }
 ]
