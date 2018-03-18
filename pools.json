@@ -68,5 +68,12 @@
         "searchStrings": [
             "WorldMiner"
         ]
+    },
+    {
+        "poolName": "Geekhash.io",
+        "url": "http://Geekhash.io",
+        "searchStrings": [
+            "Geekhash.io"
+        ]
     }
 ]
