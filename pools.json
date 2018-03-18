@@ -75,5 +75,12 @@
         "searchStrings": [
             "Geekhash.io"
         ]
+    },
+    {
+        "poolName": "Digital49er",
+        "url": "http://uspool.digital49er.com",
+        "searchStrings": [
+            "Digital49er"
+        ]
     }
 ]
