@@ -82,5 +82,12 @@
         "searchStrings": [
             "Digital49er"
         ]
+    },
+    {
+        "poolName": "CoinBlockers",
+        "url": "https://btcz.coinblockers.com",
+        "searchStrings": [
+            "coinblockers.com - https://coinblockers.com"
+        ]
     }
 ]
