@@ -89,5 +89,12 @@
         "searchStrings": [
             "coinblockers.com - https://coinblockers.com"
         ]
+    },
+    {
+        "poolName": "NibiruPool",
+        "url": "https://nibirupool.com/",
+        "searchStrings": [
+            "NibiruPool"
+        ]
     }
 ]
