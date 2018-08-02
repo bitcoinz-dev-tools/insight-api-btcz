@@ -96,5 +96,12 @@
         "searchStrings": [
             "NibiruPool"
         ]
+    },
+    {
+        "poolName": "EquiGems",
+        "url": "https://equigems.online",
+        "searchStrings": [
+            "EquiGems"
+        ]
     }
 ]
