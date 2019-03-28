@@ -39,6 +39,10 @@
     {
       "name": "Jack Grigg",
       "email": "jack@z.cash"
+    },
+    {
+      "name": "Simon Liu",
+      "email": "simon@z.cash"
     }
   ],
   "bugs": {
@@ -65,8 +69,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-zcash": "str4d/bitcore-lib-zcash",
-    "bitcore-message-zcash": "str4d/bitcore-message-zcash",
+    "bitcore-lib-zcash": "zcash-hackworks/bitcore-lib-zcash",
+    "bitcore-message-zcash": "zcash-hackworks/bitcore-message-zcash",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
