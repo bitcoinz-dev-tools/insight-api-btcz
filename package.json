@@ -1,8 +1,8 @@
 {
   "name": "insight-api-btcz",
-  "description": "A Zcash blockchain REST and web socket API service for Bitcore Node.",
+  "description": "A BitcoinZ blockchain REST and web socket API service for Bitcore Node.",
   "version": "0.4.3",
-  "repository": "git://github.com/renuzit/insight-api-btcz.git",
+  "repository": "git://github.com/MarcelusCH/insight-api-btcz.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -46,15 +46,15 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/renuzit/insight-api-btcz/issues"
+    "url": "https://github.com/MarcelusCH/insight-api-btcz/issues"
   },
-  "homepage": "https://github.com/renuzit/insight-api-btcz",
+  "homepage": "https://github.com/MarcelusCH/insight-api-btcz",
   "license": "MIT",
   "keywords": [
     "insight",
     "insight api",
     "blockchain",
-    "zcash api",
+    "bitcoinz api",
     "blockchain api",
     "json",
     "bitcore"
@@ -69,7 +69,7 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-zcash": "zcash-hackworks/bitcore-lib-zcash",
+    "bitcore-lib-btcz": "MarcelusCH/bitcore-lib-btcz",
     "bitcore-message-zcash": "zcash-hackworks/bitcore-message-zcash",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",

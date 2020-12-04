@@ -10,7 +10,7 @@ This is a backend-only service. If you're looking for the web frontend applicati
 npm install -g bitcore-node@latest
 bitcore-node create mynode
 cd mynode
-bitcore-node install renuzit/insight-api-btcz
+bitcore-node install MarcelusCH/insight-api-btcz
 bitcore-node start
 ```
 
