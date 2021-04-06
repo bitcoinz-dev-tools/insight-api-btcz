@@ -7,6 +7,13 @@
         ]
     },
     {
+        "poolName": "BTCzAppPool",
+        "url": "https://mine.btcz.app",
+        "searchStrings": [
+            "BTCzAppPool"
+        ]
+    },
+    {
         "poolName": "Equipool Asia",
         "url": "https://equipool.1ds.us/getting_started",
         "searchStrings": [
