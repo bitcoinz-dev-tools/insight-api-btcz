@@ -7,6 +7,13 @@
         ]
     },
     {
+        "poolName": "DarkFiberMines",
+        "url": "https://btcz.darkfibermines.com",
+        "searchStrings": [
+            "DarkFiberMines"
+        ]
+    },
+    {
         "poolName": "BTCzAppPool",
         "url": "https://mine.btcz.app",
         "searchStrings": [
