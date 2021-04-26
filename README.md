@@ -2,7 +2,7 @@
 
 A BitcoinZ blockchain REST and web socket API service for [Bitcore Node](https://github.com/bitcoinz-dev-tools/bitcore-node-btcz).
 
-This is a backend-only service. If you're looking for the web frontend application, take a look at the [Insight API](https://github.com/bitcoinz-dev-tools/insight-api-btcz).
+This is a backend-only service. If you're looking for the web frontend application, take a look at the [Insight UI](https://github.com/bitcoinz-dev-tools/insight-ui-btcz).
 
 ## Getting Started
 
