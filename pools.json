@@ -7,6 +7,13 @@
         ]
     },
     {
+        "poolName": "2Mars",
+        "url": "https://btcz.2mars.biz",
+        "searchStrings": [
+            "2Mars"
+        ]
+    },
+    {
         "poolName": "DarkFiberMines",
         "url": "https://btcz.darkfibermines.com",
         "searchStrings": [
