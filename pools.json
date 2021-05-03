@@ -7,6 +7,13 @@
         ]
     },
     {
+        "poolName": "K1Pool",
+        "url": "https://k1pool.com/pool/btcz",
+        "searchStrings": [
+            "K1Pool"
+        ]
+    },
+    {
         "poolName": "2Mars",
         "url": "https://btcz.2mars.biz",
         "searchStrings": [
